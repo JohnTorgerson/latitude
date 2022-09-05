@@ -18,8 +18,10 @@ background-color: #D6C9A7;
 /* ============ SAMPLES BELOW ============ */
  /* h1 heading tag */
  h1 {
-  /* Put a 15-pixel margin at the bottom of the heading. */
+  /* Put a 10-pixel margin at the bottom of the heading. */
   margin-top:10px;
+  /* Put a 50-pixel margin to the left */
+  margin-left: 50px;
   /* Change the size of your font to 60 pixels high. */
   font-size: 60px;
   /* This will color the heading font plains lt green. */
@@ -79,8 +81,17 @@ ul {
   list-style-position: inside;
 }
 
+/* Post element margins on 3 sides */
+post {
+  margin-top: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 /* All p tags */
 p {
+  margin-top: 10px;
+  margin-left: 50px;
   text-align: left;
   font-size: 20px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;

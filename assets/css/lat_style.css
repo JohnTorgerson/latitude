@@ -65,15 +65,6 @@ li {
   font-weight: bold;
 }
 
-/* All p tags */
-p {
-  text-align: center;
-  font-size: 20px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  /* Bold the text. */
-  font-weight: bold;
-}
-
 /* All unordered list tags */
 ul {
   text-align: center;
@@ -86,4 +77,11 @@ ul {
   /* Include bullets in the content flow. */
   /* More info here: http://www.w3schools.com/cssref/pr_list-style-position.asp */
   list-style-position: inside;
+}
+
+/* All p tags */
+p {
+  text-align: left;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }

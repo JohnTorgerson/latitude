@@ -5,15 +5,12 @@
   background: rgb(5, 16, 75);
 }
 
-/* Navigation Tabs */
-/* --#{$prefix}nav-tabs-border-width: #{$nav-tabs-border-width};
---#{$prefix}nav-tabs-border-color: #{$nav-tabs-border-color};
---#{$prefix}nav-tabs-border-radius: #{$nav-tabs-border-radius};
---#{$prefix}nav-tabs-link-hover-border-color: #{$nav-tabs-link-hover-border-color};
---#{$prefix}nav-tabs-link-active-color: #{$nav-tabs-link-active-color};
---#{$prefix}nav-tabs-link-active-bg: #{$nav-tabs-link-active-bg};
---#{$prefix}nav-tabs-link-active-border-color: #{$nav-tabs-link-active-border-color}; */
+/* Table Style */
+table {
+padding: 80;
 
+
+}
 
 
 /* Article Style */
@@ -27,7 +24,7 @@ background-color: #D6C9A7;
  /* h1 heading tag */
  h1 {
   /* Put a 15-pixel margin at the bottom of the heading. */
-  margin-top:80px;
+  margin-top:10px;
   /* Change the size of your font to 60 pixels high. */
   font-size: 60px;
   /* This will color the heading font plains lt green. */

@@ -21,8 +21,7 @@ Populate it with visualized raw data, and analysis scatter plots of climate cond
 * `app.py` is conversion code for .csv to .html
 
 * In folder, `assets`/`css` are the following 6 tables:
-    1. `style.css` is a css style sheet
-    2. `sample_data.csv` is < describe contents >
+    1. `lat_style.css` is a css style sheet
    
 * In folder, `assets`/`images` are the following 5 images:
     1. `CloudinessInWorldCities.png` is a scatter plot of Cloudiness in relation to the equator
